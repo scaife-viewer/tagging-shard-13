@@ -1,0 +1,72 @@
+1	0	Μενεκράτης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Μενεκράτης	nsubj	3
+1	1	Ζεὺς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ζεύς	appos	0
+1	2	Φιλίππῳ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	Φίλιππος	iobj	3
+1	3	χαίρειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	χαίρω	ROOT	3
+1	4	.	PUNCT	Z		.	punct	3
+1	5	Σὺ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	σύ	nsubj	8
+1	6	μὲν	ADV	Df		μέν	discourse	8
+1	7	Μακεδονίας	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	Μακεδονία	iobj	8
+1	8	βασιλεύεις	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	βασιλεύω	ROOT	8
+1	9	,	PUNCT	Z		,	punct	8
+1	10	ἐγὼ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	nsubj	12
+1	11	δὲ	ADV	Df		δέ	discourse	10
+1	12	ἰατρικῆς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	ἰατρικός	ROOT	12
+1	13	καὶ	CCONJ	C-		καί	ROOT	13
+1	14	σὺ	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	σύ	nsubj	17
+1	15	μὲν	ADV	Df		μέν	discourse	17
+1	16	ὑγιαίνοντας	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ὑγιαίνω	dep	17
+1	17	δύνασαι	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	δύναμαι	ROOT	17
+1	18	,	PUNCT	Z		,	xcomp	17
+1	19	ὅταν	ADV	Dq	PronType=Rel	ὅταν	advmod	20
+1	20	βουληθῇς	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	βούλομαι	advcl	18
+1	21	,	PUNCT	Z		,	xcomp	17
+1	22	ἀπολ	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀπολ	xcomp	17
+1	23	·	PUNCT	Z		·	punct	17
+1	24	λύναι	VERB	Nb	Tense=Pres|VerbForm=Inf|Voice=Act	λύναι	ROOT	24
+1	25	,	PUNCT	Z		,	punct	24
+1	26	ἐγὼ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	nsubj	30
+1	27	δὲ	ADV	Df		δέ	discourse	30
+1	28	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	29
+1	29	νοσοῦντας	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	νοσέω	obj	30
+1	30	σώζειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	σῴζω	ROOT	30
+1	31	καὶ	CCONJ	C-		καί	cc	30
+1	32	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	33
+1	33	εὐρώ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	εὐρώ	dep	34
+1	34	-	ADV	V-		-	det	35
+1	35	στους	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	στους	obj	30
+1	36	ἀνόσους	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἄνοσος	advmod	30
+1	37	,	PUNCT	Z		,	appos	29
+1	38	οἳ	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	ὁ	nsubj	41
+1	39	ἂν	ADV	Df		ἄν	advmod	41
+1	40	ἐμοὶ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	iobj	41
+1	41	πείθωνται	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	πείθωμαι	acl	37
+1	42	,	PUNCT	Z		,	conj	30
+1	43	παρέχειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	παρέχω	conj	30
+1	44	μέχρι	ADP	R-		μέχρι	case	45
+1	45	γήρως	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	γῆρας	obl	46
+1	46	ζῶντας	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ζῶ	xcomp	43
+1	47	.	PUNCT	Z		.	punct	30
+1	48	τοιγαροῦν	ADV	Df		τοιγαροῦν	discourse	54
+1	49	σὲ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σύ	obj	52
+1	50	μὲν	ADV	Df		μέν	discourse	52
+1	51	Μακεδόνες	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	Μακεδών	nsubj	52
+1	52	δορυ	VERB	Nb	Tense=Pres|VerbForm=Inf|Voice=Act	δορυ	xcomp	54
+1	53	-	ADV	Df		-	obj	54
+1	54	φοροῦσιν	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	φορέω	ROOT	54
+1	55	,	PUNCT	Z		,	punct	54
+1	56	ἐμὲ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	ROOT	56
+1	57	δὲ	ADV	Df		δέ	discourse	56
+1	58	καὶ	CCONJ	C-		καί	dep	60
+1	59	οἱ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	60
+1	60	θεοὶ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	θεός	nsubj	56
+1	61	μέλλοντες	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	μέλλω	acl	60
+1	62	ἔσεσθαι	AUX	V-	Tense=Fut|VerbForm=Inf|Voice=Mid	εἰμί	xcomp	61
+1	63	·	PUNCT	Z		·	ROOT	63
+1	64	Ζεὐς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ζεὐς	nsubj	70
+1	65	ΝΤΤΙΥΙΕγ	ADV	Df		ΝΤΤΙΥΙΕγ	discourse	70
+1	66	γὰρ	ADV	Df		γάρ	discourse	70
+1	67	ἐγὼ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	nsubj	70
+1	68	αὐτοῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός	iobj	70
+1	69	βίον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	βίος	obj	70
+1	70	παρέχω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	παρέχω	ROOT	70
+1	71	.	PUNCT	Z		.	punct	70

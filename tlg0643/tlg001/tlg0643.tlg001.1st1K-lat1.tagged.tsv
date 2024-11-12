@@ -1,0 +1,119 @@
+1	0	EDITIONIS	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	editio	ROOT	0
+2	0	*	PUNCT	punc		*	punct	4
+2	1	spatiuro	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	spatiurum	obl	4
+2	2	unius	NUM	number	Case=Gen|Gender=Fem|Number=Sing	unus	nummod	3
+2	3	litterae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	littera	nmod	1
+2	4	relictum	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	relinquo	ROOT	4
+2	5	a	ADP	preposition		ab	case	6
+2	6	librario	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	librarius	obl:arg	4
+3	0	*	PUNCT	punc		*	punct	2
+3	1	*	PUNCT	punc		*	punct	2
+3	2	spatium	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	spatium	ROOT	2
+3	3	binarum	ADJ	adjective	Case=Gen|Gender=Fem|Number=Plur	binus	amod	4
+3	4	litterarum	NOUN	noun	Case=Gen|Gender=Fem|Number=Plur	littera	nmod	2
+3	5	relictum	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	relinquo	acl	2
+3	6	a	ADP	preposition		ab	case	7
+3	7	librario	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	librarius	obl:arg	5
+4	0	—	PUNCT	punc		—	punct	2
+4	1	—	PUNCT	punc		—	punct	0
+4	2	paragraphus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	paragraphus	ROOT	2
+4	3	ad	ADP	ADP		ad	case	4
+4	4	sioistram	PROPN	proper_noun	Case=Acc|Gender=Fem|Number=Sing	sioistram	nmod	2
+4	5	subter	ADV	adverb		subter	advmod	7
+4	6	versus	ADP	ADP		uersus	case	7
+4	7	clausulam	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	clausula	obl	2
+4	8	continentis	VERB	verb	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	contineo	acl	9
+4	9	initium	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	initium	obl	10
+4	10	posita	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	pono	acl	7
+4	11	a	ADP	ADP		a	case	12
+4	12	librario	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	librarius	obl:agent	10
+5	0	—	PUNCT	punc		—	punct	1
+5	1	—	PUNCT	punc		—	dep	3
+5	2	capitis	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	caput	nmod	1
+5	3	clausula	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	clausula	ROOT	3
+5	4	eodem	DET	adjective	Case=Abl|Gender=Masc|Number=Sing	idem	det	5
+5	5	moclo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	moclus	obl	6
+5	6	notata	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	noto	acl	3
+5	7	a	ADP	ADP		a	case	8
+5	8	librario	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	librarius	obl:arg	6
+6	0	litterae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	littera	ROOT	0
+6	1	expunctae	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	expungo	acl	0
+6	2	a	ADP	preposition		ab	case	3
+6	3	librario	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	librarius	obl:agent	1
+7	0	litterae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	littera	ROOT	0
+7	1	deletae	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	deleo	acl	0
+7	2	a	ADP	preposition		ab	case	3
+7	3	librario	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	librarius	obl:arg	1
+8	0	vestigia	NOUN	noun	Case=Acc|Gender=Neut|Number=Plur	uestigium	ROOT	0
+8	1	litterarum	NOUN	noun	Case=Gen|Gender=Fem|Number=Plur	littera	nmod	0
+8	2	oblitarum	VERB	verb	Case=Gen|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	oblitarum	acl	1
+8	3	a	ADP	preposition		ab	case	4
+8	4	librario	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	librarius	obl:arg	2
+9	0	[	PUNCT	punc		[	obl	2
+9	1	ααα]litterae	X	noun		ααα]litterae	nsubj	0
+9	2	additae	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	addo	ROOT	2
+9	3	aut	CCONJ	conjunction		aut	cc	5
+9	4	super	ADP	preposition		super	case	5
+9	5	versura	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	uersura	obl	2
+9	6	aut	CCONJ	conjunction		aut	cc	8
+9	7	iu	ADJ	number	Case=Abl|Gender=Masc|Number=Sing	iu	amod	8
+9	8	margine	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	margo	conj	5
+9	9	a	ADP	preposition		ab	case	10
+9	10	librario	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	librarius	obl:agent	2
+10	0	(	PUNCT	punc		(	punct	1
+10	1	ααα	X	X		ααα	ROOT	1
+10	2	)	PUNCT	punc		)	punct	1
+10	3	litterae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	littera	nmod	1
+10	4	siglis	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	siglum	obl	5
+10	5	significatae	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	significo	acl	3
+11	0	[	PUNCT	punc		[	obl	1
+11	1	ααα	X	X		ααα	dep	7
+11	2	]	PUNCT	punc		]	nsubj	1
+11	3	litterae	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	littera	nmod	4
+11	4	coniectura	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	coniectura	nsubj:pass	7
+11	5	aut	CCONJ	conjunction		aut	cc	7
+11	6	pro	ADP	preposition		pro	case	7
+11	7	oblitteratis	VERB	verb	Case=Abl|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	oblittero	ROOT	7
+11	8	aut	CCONJ	conjunction		aut	cc	11
+11	9	pro	ADP	preposition		pro	case	11
+11	10	falso	ADJ	adjective	Case=Abl|Gender=Neut|Number=Sing	falsus	amod	11
+11	11	scriptis	NOUN	verb	Case=Abl|Gender=Neut|Number=Plur	scribo	conj	7
+11	12	positae	VERB	verb	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	pono	conj	7
+11	13	ab	ADP	preposition		ab	case	14
+11	14	editore	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	editor	obl:agent	12
+12	0	[	PUNCT	punc		[	ROOT	0
+12	1	ααα	X	X		ααα	nsubj	0
+12	2	]	PUNCT	punc		]	obl	0
+12	3	litterae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	littera	nsubj	0
+12	4	deletae	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	deleo	acl	3
+12	5	ab	ADP	preposition		ab	case	6
+12	6	editore	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	editor	obl:agent	4
+13	0	<	PUNCT	punc		<	punct	1
+13	1	ααα	X	X		ααα	ROOT	1
+13	2	>	PUNCT	punc		>	punct	1
+13	3	litterae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	littera	nmod	1
+13	4	additae	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	addo	acl	3
+13	5	ab	ADP	preposition		ab	case	6
+13	6	editore	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	editor	obl:arg	4
+14	0	ααα	X	X		ααα	ROOT	0
+14	1	litterae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	littera	nsubj	0
+14	2	ambiguae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	ambiguus	amod	1
+14	3	aut	CCONJ	conjunction		aut	cc	6
+14	4	non	PART	particle		non	advmod:neg	5
+14	5	cert	ADV	verb		cero	advmod	6
+14	6	lectae	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	lego	conj	2
+14	7	ab	ADP	preposition		ab	case	8
+14	8	editore	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	editor	appos	1
+15	0	NOTARUM	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	nosco	ROOT	0
+16	0	Ρ	ADJ	X		Ρ	ROOT	0
+16	1	papyri	PROPN	noun	Case=Gen|Gender=Fem|Number=Sing	papyrus	nmod	0
+16	2	Londiuensis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	Londiuensis	amod	1
+16	3	CXXXVII	NUM	number		CXXXVII	nummod	1
+16	4	scriptor	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	scriptor	appos	0
+16	5	idem	ADV	adverb		idem	advmod	7
+16	6	que	ADV	adverb		que	advmod	7
+16	7	corrector	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	corrector	conj	4
+17	0	K	NOUN	adverb		kalendae	ROOT	0
+17	1	F.	PROPN	punc		F.	punct	0
+17	2	G.	PROPN	proper_noun		G.	flat:name	1
+17	3	Kenyon	PROPN	proper_noun	Case=Nom|Gender=Neut|Number=Sing	Kenyon	appos	1
